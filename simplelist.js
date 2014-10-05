@@ -130,8 +130,3 @@ function toString(){
 // movieList.append("city of god");
 // movieList.append("forest gump");
 
-
-
-
-
-
