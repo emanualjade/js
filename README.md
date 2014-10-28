@@ -12,3 +12,6 @@ Notes, Classes and Examples based on the book by Michael MichMillan
 
 ## Queue Class
 * A queue class where data is inserted at the end and is removed from the front.
+
+## Linked List Class
+* An example of a linked list class as per the 'Data Structures and Algorithms with JS' book
